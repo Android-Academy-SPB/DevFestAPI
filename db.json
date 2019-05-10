@@ -1,0 +1,288 @@
+{
+  "speakers": [
+    {
+      "id": "alex-efremenkov",
+      "firstName": "Александр",
+      "lastName": "Ефременков",
+      "location": "Москва, Россия",
+      "jobTitle": "System Android developer",
+      "company": "Яндекс.Такси",
+      "about": "Пишу код, смотрю в Android.",
+      "photo": "https://devfest-spb.com/img/speakers/AlexanderEfremenkov.jpg",
+      "flagImage": "russia",
+      "links": {
+        "twitter": "https://twitter.com/iamironz"
+      }
+    },
+    {
+      "id": "tanay-pant",
+      "firstName": "Tanay",
+      "lastName": "Pant",
+      "location": "Берлин, Германия",
+      "jobTitle": "Engineering Communications Manager",
+      "company": "Research Gate",
+      "about": "Tanay Pant is an author, hacker, developer and tech enthusiast. He is best known for his work on “Learning Web-based Virtual Reality” by Apress, “Building a Virtual Assistant for Raspberry Pi” by Apress and “Learning Firefox OS Application Development” published by Packt. He is also an official representative of Mozilla. He has been listed in the about:credits of the Firefox web browser for his contributions to the different open source projects of the Mozilla Foundation. He also writes for a number of websites like SitePoint and Tuts+ where he shares tips and tricks about web development.",
+      "photo": "https://devfest-spb.com/img/speakers/TanayPant.jpg",
+      "flagImage": "de",
+      "links": {
+        "twitter": "https://twitter.com/tanay1337"
+      }
+    },
+    {
+      "id": "konstantin-tskhovrebov",
+      "firstName": "Константин",
+      "lastName": "Цховребов",
+      "location": "Санкт-Петербург, Россия",
+      "job": "Senior Developer",
+      "company": "Redmadrobot",
+      "about": "Graduated from SPBGPU, Konstantin used to be fond of microcontrollers and circuitry. He has started coding for android platform since 2.2 version had been released. Today, Kostya is an architect in the St. Petersburg team Redmadrobot",
+      "photo": "KonstantinTskhovrebov.jpg",
+      "flagImage": "ru",
+      "links": {
+        "github": "https://github.com/terrakok"
+      }
+    },
+    {
+      "id": "shurik-babaev",
+      "firstName": "Александр",
+      "lastName": "Бабаев",
+      "location": "Санкт-Петербург, Россия",
+      "job": "CTO",
+      "company": "Redmadrobot SPb",
+      "about": "Java, Objective-C, Swift",
+      "photo": "https://devfest-spb.com/img/speakers/AlexBabaev.jpg",
+      "flagImage": "ru",
+      "links": {
+        "": ""
+      }
+    },
+    {
+      "id": "ruslan-kalabaev",
+      "firstName": "Руслан",
+      "lastName": "Калабаев",
+      "location": "Санкт-Петербург, Россия",
+      "jobTitle": "Android-разработчик",
+      "company": "Redmadrobot",
+      "about": "Разрабатываю под Android чуть больше 4-х лет. Исследую и решаю сложные технические задачи. Закончил Томский государственный университет, факультет информатики. Адепт кафедры программной инженерии.",
+      "photo": "https://devfest-spb.com/img/speakers/RuslanKalabaev.jpg",
+      "flagImage": "ru",
+      "links": {
+        "": ""
+      }
+    },
+    {
+      "id": "artur-vasilov",
+      "firstName": "Артур",
+      "lastName": "Василов",
+      "location": "Санкт-Петербург, Россия",
+      "jobTitle": "Старший Android-разработчик",
+      "company": "Яндекс",
+      "about": "Android Developer with over five years of professional experience and love of creating extremely high-quality apps with perfect UI / UX and optimizations. Working at Yandex. GDG Leader.",
+      "photo": "https://devfest-spb.com/img/speakers/ArturVasilov.png",
+      "flagImage": "ru",
+      "links": {
+        "twitter": "https://twitter.com/vasilovartur",
+        "github": "https://github.com/ArturVasilov"
+      }
+    },
+    {
+      "id": "evgeny-kot",
+      "firstName": "Евгений",
+      "lastName": "Кот",
+      "location": "Санкт-Петербург, Россия",
+      "jobTitle": "Тимлид",
+      "company": "Wrike",
+      "about": "Начинал с C++ и железяк, потом переключился на .Net и C#. Работал много где, но как-то так получилось, что работая в Dell пришлось заниматься CoffeeScript и фронтендом ¯_(ツ)_/¯. Сейчас работаю во Wrike, высоконагруженном SAAS приложении с очень богатым клиентским кодом, который мы пишем на Dart и Angular. Участник программного комитета HolyJS, спикер. Google Developer Expert.",
+      "photo": "https://devfest-spb.com/img/speakers/EvgenyKot.jpg",
+      "flagImage": "ru",
+      "links": {
+        "twitter": "https://twitter.com/bunopus"
+      }
+    },
+    {
+      "id": "doug-sillars",
+      "firstName": "Doug",
+      "lastName": "Sillars",
+      "location": "США",
+      "jobTitle": "Digital Nomad",
+      "company": "",
+      "about": "Doug is a leading mobile developer advocate and evangelist. He is widely known as an expert in mobile application architecture, especially when it comes to performance. Doug has worked with thounited-states-of-americands of developers around the world, helping them improve the speed, battery life and customer satisfaction of their applications (both native and web). The author of O’Reilly’s ‘High Performance Android Apps,’ he has spoken at conferences around the world on mobile performance. He is currently freelancing,and traveling with his family of 6 (plus the dog!) as a digital nomad in Europe.",
+      "photo": "https://devfest-spb.com/img/speakers/DougSillars.jpg",
+      "flagImage": "us",
+      "links": {
+        "twitter": "https://twitter.com/dougsillars"
+      }
+    },
+    {
+      "id": "dora-militaru",
+      "firstName": "Dora",
+      "lastName": "Militaru",
+      "location": "Лондон, Великобритания",
+      "jobTitle": "Senior developer",
+      "company": "the Financial Times",
+      "about": "Dora is a senior developer at the Financial Times. She has recently led the team responsible for implementing the EU's General Data Protection Regulation (GDPR) on ft.com, and currently works on exciting internal products. She is passionate about all things web performance – and skydiving.",
+      "photo": "https://devfest-spb.com/img/speakers/DoraMilitaru.png",
+      "flagImage": "gb",
+      "links": {
+        "twitter": "https://twitter.com/doramilitaru"
+      }
+    },
+    {
+      "id": "sergey-ryabov",
+      "firstName": "Сергей",
+      "lastName": "Рябов",
+      "location": "Россия",
+      "jobTitle": "Mobile Consultant",
+      "company": "",
+      "about": "Currently Sergey is an independent Android Engineer and Consultant with the background in backend dev. Co-organiser of the first Kotlin User Group in Russia and Android Academy in St. Petersburg and Moscow, usually speaks about Kotlin & Android. Kotlin early adopter, digital nomad.",
+      "photo": "https://devfest-spb.com/img/speakers/SergeyRyabov.jpg",
+      "flagImage": "ru",
+      "links": {
+        "telegram": "https://t.me/colriot"
+      }
+    },
+    {
+      "id": "illya-klymov",
+      "firstName": "Илья",
+      "lastName": "Климов",
+      "location": "Харьков, Украина",
+      "jobTitle": "CEO",
+      "company": "Javascript.Ninja",
+      "about": "14 years of JS everywhere: from microcontrollers to rendering video in the cloud. More than 5 years of educational experience (at two universities and Illya's own courses), Ph.D. in Computer Science (field of interest: System Analysis and Theory of optimal decisions). Coach at Kottans.Org project.",
+      "photo": "https://devfest-spb.com/img/speakers/IllyaKlymov.jpg",
+      "flagImage": "ua",
+      "links": {
+        "telegram": "https://twitter.com/xanf_ua"
+      }
+    },
+    {
+      "id": "eugene-shishkin",
+      "firstName": "Евгений",
+      "lastName": "Шишкин",
+      "location": "Санкт-Петербург, Россия",
+      "jobTitle": "Android Developer",
+      "company": "Aviasales",
+      "about": "Android-разработчик с опытом более 8 лет. Адаптировал телефоны LG под российский рынок, разрабатывал умного ассистента в i-Free и амбициозный аудиогид izi.TRAVEL. В 2016 году присоеденился к команде Aviasales, где разрабатывает приложение Hotellook для поиска лучших цен на отели. Автор популярных android open-source проектов (RobotoTextView, AppMsg, ProgressFragment, Snowfall, MultiBackStack и т.д.)",
+      "photo": "https://devfest-spb.com/img/speakers/EvgenyShishkin.jpg",
+      "flagImage": "ru",
+      "links": {
+        "twitter": "https://github.com/johnkil",
+        "github": "https://github.com/johnkil"
+      }
+    }
+  ],
+  "schedule": {
+    "talks": [
+      {
+        "title": "Kotlin-friendly Annotation Processing",
+        "description": "Рекламируя вашему другу Kotlin, как замену Java, наверняка первым аргументом будет тот самый синтаксический сахар, от которого мы получаем профит каждый день: поддержка nullability из коробки, аргументы по умолчанию, свойства-делегаты, data и sealed классы и т.д. Но если нам понадобится прикрутить к проекту процессор аннотаций, то, к сожалению, вся информация, которую получится собрать о нашем коде, будет Java-специфична, а Kotlin-фичи останутся незамеченными. В этом докладе мы выясним, как использовать метаданные, добавляемые Kotlin-компилятором к коду, чтобы получить информацию об использованных особенностях языка, и как использовать её во время обработки аннотаций.",
+        "room": 1,
+        "track": "android",
+        "speaker": "sergey-ryabov",
+        "time": "11:15"
+      },
+      {
+        "title": "Multiplayer games with WebXR",
+        "description": "Virtual Reality is a technology used for building realistic experiences for games, environments, content display as well as marketing. In this session, I will teach the participants about 3D objects in the web, virtual reality, VR devices, WebVR, WebVR API and finally building games with A-Frame. In this talk, I will also showcase creating a multiplayer game similar to Pokemon Go using WebXR in a live coding session. The live coding session will cover topics such as creating the game scene, importing 3D objects, interaction with objects, adding animations, implementing WebAR and adding multiplayer capability to the game with real time databases. By the end of the session, the participants will have a complete understanding of what WebXR is and they will be able to create cross-browser WebXR experiences as well as multiplayer games similar to Pokemon Go.",
+        "room": 2,
+        "track": "frontend",
+        "speaker": "tanay-pant",
+        "time": "11:15"
+      },
+      {
+        "title": "D8/R8 vs DX/Proguard",
+        "description": "В Android тулчейн добавили новый компилятор - D8 (Dope 8), который позволяет компилировать быстрее, чем DX, и иметь наименьший итоговый размер apk, а также R8 - замена ProGuard. В этом докладе постараемся разобраться в этих новинках, а также сравним и поймём, как компилирует D8 против старого доброго DX, зачем сделали второй ProGuard и насколько это всё стабильно.",
+        "room": 1,
+        "track": "android",
+        "speaker": "alex-efremenkov",
+        "time": "12:25"
+      },
+      {
+        "title": "Breaking news: A web performance story",
+        "description": "At the Financial Times we built one of the world's fastest news websites. This talk sheds light on the unique challenges of optimising web performance for a highly componentised micro frontends architecture with a rapid release cycle and a common toolchain that punishes dissent. We’ll explore how we deliver and build ft.com, along with the underlying architectural and organisational decisions and their implications to high availability, high reliability, and optimal performance. This is an opportunity to learn about the payoffs and trade-offs we made along the way, and what the future holds.",
+        "room": 2,
+        "track": "frontend",
+        "speaker": "dora-militaru",
+        "time": "12:25"
+      },
+      {
+        "title": "Поддержка офлайна в мобильном приложении. Синхронизация.",
+        "description": "Поддержка офлайна в мобильном приложении - нетривиальная задача, решение которой позволяет вывести приложение на качественно иной уровень. В докладе будет представлена теоретическая часть проблемы и одно из ее практических решений.",
+        "room": 1,
+        "track": "android",
+        "speaker": "ruslan-kalbaev",
+        "time": "13:35"
+      },
+      {
+        "title": "Delivering Fast and Beautiful Images and Video",
+        "description": "The average mobile website page weight is ~50% images. Toss in the complication of thousands of differently sized screens, and it might appear that efficient delivery of images to every device is an impossible task. But all is not lost! In this talk, we’ll examine strategies to send the perfect image to every device, ensuring a fast, beautiful rendering of your content. We’ll look at progressive images, placeholder images, lazy loading and other techniques and real world examples that will improve the usability of your site or app. Attendees will come away with an understand of the current ‘state of the art’ for optimizing visual content on the web.",
+        "room": 2,
+        "track": "frontend",
+        "speaker": "doug-sillars",
+        "time": "13:35"
+      },
+      {
+        "title": "Как мы ускоряем Яндекс под Android",
+        "description": "Многие Android-разработчики знают стандартные методы профилирования приложений, инструменты для отладки и улучшения производительности. Однако для случая больших приложений этого не всегда достаточно. Мы поговорим о нестандартных способах ускорения работы приложения, затронем самые разные аспекты, как вопросы UI, так и инструментов и околосерверных вещей. Я надеюсь, что этот доклад заставит вас посмотреть на вопросы производительности по-новому и подумать о том, что вы можете сделать в своем приложении.",
+        "room": 1,
+        "track": "android",
+        "speaker": "artur-vasilov",
+        "time": "15:25"
+      },
+      {
+        "title": "There once was Swift",
+        "description": "We live with Swift in a fifth version of which we are promised to have the stability of the binary interface and happiness. But how can we use all these exciting things for greater good? One can program differently and it is not clear which way is the right one. How to know where the pitfalls are? Why are they there? And are these real pitfalls or just imaginary? Lets take a look together.",
+        "room": 2,
+        "track": "common",
+        "speaker": "shurik-babaev",
+        "time": "15:25"
+      },
+      {
+        "title": "Aviasales Отели - практический опыт объединения двух приложений",
+        "description": "До недавнего времени у нас независимо существовало два приложения: Aviasales — метапоиск авиабилетов и Hotellook — метапоиск отелей/хостелов/аппартов. И все было хорошо, пока не появилась задача интегрировать возможность поиска и бронирования отелей в приложение Aviasales, для того чтобы увеличить конверсию пользователей в отельную часть и зарабатывать еще больше денег 😁 Так как Aviasales и Hotellook — это совершенно разные проекты с разными командами, разными архитектурными подходами, задача эта оказалась весьма непростой и интересной. Спойлер: В результате объединения приложения свет увидели 2 любопытные open source библиотеки: mrButler и nautilus.",
+        "room": 1,
+        "track": "android",
+        "speaker": "eugene-shishkin",
+        "time": "16:35"
+      },
+      {
+        "title": "Dart: второе пришествие",
+        "description": "Привет, я - Кот. И ещё GDE в Dart и Flutter. И работаю во Wrike. Так получилось, что мы используем Dart в течение четырёх лет и написали огромную кучу кода (около 1kk строк). Мы пишем наш сервис используя на фронтенде исключительно в Dart (вообще нет JS). Также есть некоторое количество бекенда, ну и с появлением Flutter мы, конечно, начинаем смотреть на мобильную разработку. Можно без зазрения совести сказать, что мы раньше всех начали использовать этот язык в production разработке. Что же такого поменялось за эти годы в языке, в технологиях и мире, что вам НУЖНО ПОСЛУШАТЬ этот доклад? Вот об этом и поговорим.",
+        "room": 2,
+        "track": "common",
+        "speaker": "evgeny-kot",
+        "time": "16:35"
+      },
+      {
+        "title": "Нашёл. Увидел. Запилил",
+        "description": "Я был впечатлен представленным Google IO Motion Layout, поэтому решил изучить его в бою и рассказать о практическом использовании вам. Я пошел на Dribbble.com и выбрал понравившуюся анимацию. Теперь я сделаю все, чтобы реализовать ее, используя MotionLayout, и расскажу о фичах и проблемах аудитории.",
+        "room": 1,
+        "track": "android",
+        "speaker": "konstantin-tskhovrebov",
+        "time": "17:45"
+      },
+      {
+        "title": "Большое А: от любви к ненависти и обратно",
+        "description": "Всем привет. Меня зовут Илья и я пишу на JavaScript уже более 10 лет. За это время я перепробовал почти все хайповые и парочку маргинальных фреймворков, но сейчас остановил свой выбор и выбор моей компании на Vue и React. Больше 3 лет со сцен и в кулуарах многих митапов и конференций я рассказывал, почему не Angular, делился своей болью и опытом, критиковал, подшучивал и иронизировал. Этот доклад - рассказ про то, как вышло так, что сейчас я на полном серьезе рекомендую Angular как лучшую технологическую платформу большинству своих коллег.",
+        "room": 2,
+        "track": "frontend",
+        "speaker": "illya-klymov",
+        "time": "17:45"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Opening",
+        "time": "11:00"
+      },
+      {
+        "title": "Lunch",
+        "time": "14:25"
+      },
+      {
+        "title": "Closing",
+        "time": "18:50"
+      }
+    ]
+  }
+}
